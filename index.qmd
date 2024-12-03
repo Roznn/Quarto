@@ -3,6 +3,8 @@ title: "Quarto Presentations"
 subtitle: "Create beautiful interactive slide decks with Reveal.js"
 format:
   revealjs: 
+    auto-slide: 5000
+    loop: true
     embed-resources: false
     slide-number: true
     chalkboard: 
